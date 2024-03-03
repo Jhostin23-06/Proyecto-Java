@@ -1,0 +1,7 @@
+3001;Teclado Halion RGB;80.0
+3002;Mouse Gamer;50.0
+3003;Tarjeta grafica RTX 3090;6.0
+3004;Teclado HP;220.0
+3005;Disco SSD 1T;450.0
+3006;Monitor Curvo 25'' TERKO;950.0
+3007;Memoria RAM 16GB;250.0

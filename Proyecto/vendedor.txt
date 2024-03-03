@@ -1,0 +1,4 @@
+2002;5;Jhostin;Bravo;946299003;73206104;jhostinbravo
+2003;10;Yhonatan;Sanchez;999999999;78451623;yhonatan
+2004;10;Milagros;Mamani;978451265;7841521;tequierochicho
+2005;5;Christian;Zegarra Sierra;974856321;71829632;tequierochicho
